@@ -1,0 +1,51 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2018-11-23 06:32:22 --> Severity: Notice --> Undefined variable: booking_date C:\xampp\htdocs\works\otelseasy\application\views\backend\dashboard\index.php 51
+ERROR - 2018-11-23 06:32:23 --> Severity: Notice --> Undefined variable: booking_date C:\xampp\htdocs\works\otelseasy\application\views\backend\dashboard\index.php 51
+ERROR - 2018-11-23 06:32:47 --> 404 Page Not Found: Assets/DataTables
+ERROR - 2018-11-23 06:32:48 --> 404 Page Not Found: Assets/css
+ERROR - 2018-11-23 06:51:28 --> 404 Page Not Found: Uploads/gallery
+ERROR - 2018-11-23 06:51:29 --> 404 Page Not Found: Uploads/gallery
+ERROR - 2018-11-23 06:51:29 --> 404 Page Not Found: Uploads/gallery
+ERROR - 2018-11-23 06:51:31 --> 404 Page Not Found: Uploads/gallery
+ERROR - 2018-11-23 06:56:05 --> 404 Page Not Found: Assets/css
+ERROR - 2018-11-23 06:56:09 --> 404 Page Not Found: Assets/css
+ERROR - 2018-11-23 06:56:30 --> 404 Page Not Found: Assets/css
+ERROR - 2018-11-23 06:56:31 --> 404 Page Not Found: Assets/css
+ERROR - 2018-11-23 06:56:42 --> 404 Page Not Found: Assets/css
+ERROR - 2018-11-23 07:04:34 --> 404 Page Not Found: Uploads/gallery
+ERROR - 2018-11-23 07:04:34 --> 404 Page Not Found: Uploads/gallery
+ERROR - 2018-11-23 07:04:34 --> 404 Page Not Found: Uploads/gallery
+ERROR - 2018-11-23 07:04:34 --> 404 Page Not Found: Uploads/gallery
+ERROR - 2018-11-23 10:12:33 --> 404 Page Not Found: Uploads/gallery
+ERROR - 2018-11-23 10:12:35 --> 404 Page Not Found: Uploads/gallery
+ERROR - 2018-11-23 10:13:33 --> 404 Page Not Found: Uploads/gallery
+ERROR - 2018-11-23 10:13:33 --> 404 Page Not Found: Uploads/gallery
+ERROR - 2018-11-23 10:13:47 --> 404 Page Not Found: Uploads/gallery
+ERROR - 2018-11-23 10:13:47 --> 404 Page Not Found: Uploads/gallery
+ERROR - 2018-11-23 10:13:48 --> 404 Page Not Found: Uploads/gallery
+ERROR - 2018-11-23 10:16:00 --> 404 Page Not Found: Uploads/gallery
+ERROR - 2018-11-23 10:16:02 --> 404 Page Not Found: Uploads/gallery
+ERROR - 2018-11-23 10:16:02 --> 404 Page Not Found: Uploads/gallery
+ERROR - 2018-11-23 10:17:18 --> 404 Page Not Found: Uploads/gallery
+ERROR - 2018-11-23 10:17:18 --> 404 Page Not Found: Uploads/gallery
+ERROR - 2018-11-23 10:17:18 --> 404 Page Not Found: Uploads/gallery
+ERROR - 2018-11-23 10:17:33 --> 404 Page Not Found: Uploads/gallery
+ERROR - 2018-11-23 10:17:34 --> 404 Page Not Found: Uploads/gallery
+ERROR - 2018-11-23 10:17:45 --> 404 Page Not Found: Uploads/gallery
+ERROR - 2018-11-23 10:17:58 --> 404 Page Not Found: Uploads/gallery
+ERROR - 2018-11-23 10:17:58 --> 404 Page Not Found: Uploads/gallery
+ERROR - 2018-11-23 10:17:58 --> 404 Page Not Found: Uploads/gallery
+ERROR - 2018-11-23 10:19:27 --> 404 Page Not Found: Uploads/gallery
+ERROR - 2018-11-23 10:19:27 --> 404 Page Not Found: Uploads/gallery
+ERROR - 2018-11-23 10:24:17 --> 404 Page Not Found: Uploads/gallery
+ERROR - 2018-11-23 10:24:17 --> 404 Page Not Found: Uploads/gallery
+ERROR - 2018-11-23 10:24:17 --> 404 Page Not Found: Uploads/gallery
+ERROR - 2018-11-23 10:26:42 --> 404 Page Not Found: Uploads/gallery
+ERROR - 2018-11-23 10:26:43 --> 404 Page Not Found: Uploads/gallery
+ERROR - 2018-11-23 10:26:43 --> 404 Page Not Found: Uploads/gallery
+ERROR - 2018-11-23 12:34:35 --> 404 Page Not Found: Uploads/gallery
+ERROR - 2018-11-23 12:34:35 --> 404 Page Not Found: Uploads/gallery
+ERROR - 2018-11-23 12:34:35 --> 404 Page Not Found: Uploads/gallery
+ERROR - 2018-11-23 12:50:28 --> 404 Page Not Found: Uploads/gallery
+ERROR - 2018-11-23 12:50:29 --> 404 Page Not Found: Uploads/gallery

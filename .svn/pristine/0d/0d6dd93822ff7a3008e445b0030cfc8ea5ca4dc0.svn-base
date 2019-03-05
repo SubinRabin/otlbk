@@ -1,0 +1,45 @@
+[
+    {
+        "name": "seunmatt/codeigniter-log-viewer",
+        "version": "1.1.0",
+        "version_normalized": "1.1.0.0",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/SeunMatt/codeigniter-log-viewer.git",
+            "reference": "51d400b7edf15e134a1f9274b8b8a874d387003e"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://api.github.com/repos/SeunMatt/codeigniter-log-viewer/zipball/51d400b7edf15e134a1f9274b8b8a874d387003e",
+            "reference": "51d400b7edf15e134a1f9274b8b8a874d387003e",
+            "shasum": ""
+        },
+        "require": {
+            "php": ">=5.6.4"
+        },
+        "time": "2018-08-30T11:44:18+00:00",
+        "type": "library",
+        "installation-source": "dist",
+        "autoload": {
+            "psr-4": {
+                "CILogViewer\\": "src/"
+            }
+        },
+        "notification-url": "https://packagist.org/downloads/",
+        "license": [
+            "MIT"
+        ],
+        "authors": [
+            {
+                "name": "Seun Matt",
+                "email": "smatt382@gmail.com"
+            }
+        ],
+        "description": "This is a simple Log Viewer for viewing Code Igniter log files on the browser",
+        "keywords": [
+            "Code Igniter",
+            "log viewer",
+            "php"
+        ]
+    }
+]

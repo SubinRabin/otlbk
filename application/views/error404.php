@@ -1,0 +1,1 @@
+<img src="<?php echo base_url(); ?>assets/images/404.jpg" width="100%" alt=""/>

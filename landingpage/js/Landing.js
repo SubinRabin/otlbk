@@ -1,0 +1,1 @@
+$(function(){$("#ThreePanelWrapper1").css({"opacity":"0","display":"block","left":"-50px"}).animate({opacity:1,left:0},700);$("#ThreePanelWrapper2").css({"opacity":"0","display":"block","top":"-40px"}).animate({opacity:1,top:0},700);$("#ThreePanelWrapper3").css({"opacity":"0","display":"block","left":"50px"}).animate({opacity:1,left:0},700);});

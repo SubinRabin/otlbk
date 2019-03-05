@@ -1,0 +1,31 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2019-02-01 10:05:06 --> 404 Page Not Found: Assets/css
+ERROR - 2019-02-01 10:05:12 --> 404 Page Not Found: Assets/css
+ERROR - 2019-02-01 10:05:13 --> 404 Page Not Found: Assets/css
+ERROR - 2019-02-01 10:05:14 --> 404 Page Not Found: Assets/css
+ERROR - 2019-02-01 10:05:14 --> 404 Page Not Found: Assets/css
+ERROR - 2019-02-01 10:05:15 --> 404 Page Not Found: Assets/css
+ERROR - 2019-02-01 10:05:16 --> 404 Page Not Found: Assets/css
+ERROR - 2019-02-01 10:05:29 --> 404 Page Not Found: Assets/css
+ERROR - 2019-02-01 10:06:14 --> 404 Page Not Found: Assets/css
+ERROR - 2019-02-01 10:06:15 --> 404 Page Not Found: Assets/css
+ERROR - 2019-02-01 10:06:16 --> 404 Page Not Found: Assets/css
+ERROR - 2019-02-01 10:06:16 --> 404 Page Not Found: Assets/css
+ERROR - 2019-02-01 10:06:17 --> 404 Page Not Found: Assets/css
+ERROR - 2019-02-01 10:07:17 --> 404 Page Not Found: Assets/css
+ERROR - 2019-02-01 10:07:19 --> 404 Page Not Found: Assets/css
+ERROR - 2019-02-01 10:07:21 --> 404 Page Not Found: Assets/css
+ERROR - 2019-02-01 10:07:23 --> 404 Page Not Found: Assets/css
+ERROR - 2019-02-01 10:08:18 --> 404 Page Not Found: Assets/css
+ERROR - 2019-02-01 10:08:19 --> 404 Page Not Found: Assets/css
+ERROR - 2019-02-01 10:08:20 --> 404 Page Not Found: Assets/css
+ERROR - 2019-02-01 10:08:31 --> 404 Page Not Found: Assets/css
+ERROR - 2019-02-01 10:17:56 --> 404 Page Not Found: Assets/css
+ERROR - 2019-02-01 10:19:28 --> 404 Page Not Found: Assets/css
+ERROR - 2019-02-01 10:38:27 --> Unable to load the requested class: Mcrypt
+ERROR - 2019-02-01 11:00:01 --> Severity: Notice --> Undefined index: user_name C:\xampp\htdocs\works\otelseasy\application\controllers\backend\Login.php 26
+ERROR - 2019-02-01 11:00:42 --> Severity: Notice --> Undefined index: user_name C:\xampp\htdocs\works\otelseasy\application\controllers\backend\Login.php 26
+ERROR - 2019-02-01 11:00:50 --> Severity: Notice --> Undefined index: user_name C:\xampp\htdocs\works\otelseasy\application\controllers\backend\Login.php 26
+ERROR - 2019-02-01 11:01:01 --> Severity: Notice --> Undefined index: user_name C:\xampp\htdocs\works\otelseasy\application\controllers\backend\Login.php 26
+ERROR - 2019-02-01 11:01:23 --> Severity: Notice --> Undefined index: user_name C:\xampp\htdocs\works\otelseasy\application\controllers\backend\Login.php 26
